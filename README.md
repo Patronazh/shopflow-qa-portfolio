@@ -1,4 +1,4 @@
-# ShopFlow — QA Engineering Portfolio
+# ShopFlow - QA Engineering Portfolio
 
 **Practical QA Engineering Project | Work in Progress**
 
